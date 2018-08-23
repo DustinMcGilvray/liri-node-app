@@ -16,7 +16,7 @@ First, Open GitBash/Command Line. Then you will need to load the required npm's.
   - Read from the random.txt file: do-what-it-says 
   ![screenshot](screenShot_do_what_command.jpg)
 
-Finally, hit enter for the results.
+Finally, press the Enter key. The results will appear in the command line as well as populate in the log.txt file. 
   
   
 ## Built With
