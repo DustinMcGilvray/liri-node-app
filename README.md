@@ -4,8 +4,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## How to Use
 First, Open GitBash/Command Line. Then you will need to load the required npm's. This can be accomplised by simply using the command <npm install> from the command line. Once the npm's are installed you can run the app from the command line. To run a search from one of the three API's (OMDB, Bands-In-Town, or Spotify) or read from the random.txt file, you will first need to navigate to the root folder of the app. Then to envoke <node> in the command line followed by the file name <liri.js>. Next, choose one of the desired commands:
  
- - Bands-in-Town: concert-this <artist/band name here>
-  ![screenshot](images/screenShot_concert_this_command.jpg)
+ - Bands-in-Town: concert-this <artist/band name here> 
+ ![screenshot](images/screenShot_concert_this_command.jpg)
   
   - OMDB: movie-this <movie name here> 
   ![screenshot](images/screenShot_movie_this_command.jpg)
@@ -18,6 +18,7 @@ First, Open GitBash/Command Line. Then you will need to load the required npm's.
 
 Finally, press the Enter key. The results will appear in the command line as well as populate in the log.txt file. 
   
+  ![screenshot](images/screenShot_log_txt.jpg)
   
 ## Built With
 * Node.js
@@ -25,6 +26,10 @@ Finally, press the Enter key. The results will appear in the command line as wel
 * Spotify API
 * Bands in Town API
 * OMDB API
+
+## JavaScript Switch
+Switch was employed within the app to evaluate the command line input, match it to the chosen command, and run the desired function.
+![screenshot](images/screenShot_log_txt.jpg)
 
 ## Author
 * Dustin McGilvray
