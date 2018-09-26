@@ -29,7 +29,7 @@ Finally, press the Enter key. The results will appear in the command line as wel
 
 ## JavaScript Switch
 Switch was employed within the app to evaluate the command line input, match it to the chosen command, and run the desired function.
-![screenshot](images/screenShot_log_txt.jpg)
+![screenshot](images/screenShot_switch.jpg)
 
 ## Author
 * Dustin McGilvray
